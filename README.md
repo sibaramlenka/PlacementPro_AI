@@ -2,6 +2,10 @@
 
 > **An AI-powered Placement Prediction & Career Guidance System built using Machine Learning and Streamlit.**
 
+ ## 🌐 Live Demo
+
+**Live Application: https://placementproai-jxphpzos87xqhxxxjcfqpl.streamlit.app/
+
 ## 📌 Overview
 
 PlacementPro AI helps students evaluate their placement readiness by predicting their placement probability based on academic and career-related parameters. The application also provides personalized career recommendations, highlights strengths, visualizes feature importance, and allows users to explore how improving specific skills could impact their placement chances.
@@ -177,7 +181,7 @@ The application provides:
 **Sibaram Lenka**
 
 - GitHub: https://github.com/sibaramlenka
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/sibaram-lenka-96020a344
 
 ---
 
